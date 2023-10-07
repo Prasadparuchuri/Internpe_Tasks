@@ -25,6 +25,7 @@ public class Rock_Paper_Scissor
 				start();
 				break;
 			case 3:
+				System.out.println("Game Terminated......");
 				System.exit(0);
 				break;
 			default:
